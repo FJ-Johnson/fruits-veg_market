@@ -1,4 +1,5 @@
 # Fruits And Veg App
+![screenshot of app](2tierDeployment.png)
 
 A simple app to show how a 2 Tier app works. A list of **fruits** and **vegetables**
 
