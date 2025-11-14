@@ -8,7 +8,7 @@ A simple app to show how a 2 Tier app works. A list of **fruits** and **vegetabl
 
 ## Note
 
-- The frontend points to python backend on `localhost:9000`. You might need to update this
+- The frontend points to python backend on `ec2-18-201-3-117.eu-west-1.compute.amazonaws.com:9000`. You might need to update this
 
 ## Frontend Requirments
  - Install Nginx/HTTPD and deploy index.html file as required
